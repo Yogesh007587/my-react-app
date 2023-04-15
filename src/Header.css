@@ -1,0 +1,7 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+.nav-link{
+    margin: 0 5%;
+}
